@@ -1,0 +1,176 @@
+/*形象支持*/
+.IS_lunbo{
+	margin-top: 80px;
+	margin-bottom: 30px;
+}
+.IS_lunbo .swiper-container{
+	margin: 0 auto;
+}
+.IS_lunbo .swiper-container img{
+	width: 100%;
+}
+.IS_lunbo .container{
+	/*background: pink;*/
+}
+.IS_lunbo + div{
+	background: #6DCFF6;
+	width: 300px;
+	height: 45px;
+	color: white;
+	line-height: 45px;
+	text-align: center;
+	margin: 0 auto;
+	margin-bottom: 30px;
+}
+
+.IS_stores .stores_wraper{
+	padding: 0;
+	margin: 0;
+}
+.IS_stores .stores_wraper a,.IS_stores .stores_wraper img{
+	width: 100%;
+}
+.IS_stores>.container>p{
+	color: #818181;
+	font-size: 12px;
+	margin-top: 40px;
+}
+.IS_stores + div{
+	background: #6DCFF6;
+	width: 300px;
+	height: 45px;
+	color: white;
+	line-height: 45px;
+	text-align: center;
+	margin: 40px auto;
+}
+.IS_brands>.container>div{
+	background-image: url(../images/imagesupport/angle.png);
+	text-align: center;
+	margin-bottom: 40px;
+	background-size: 100% 100%;
+	padding: 3%;
+}
+.IS_brands img{
+	width: 85%;
+}
+.IS_brands + div{
+	background: #6DCFF6;
+	width: 300px;
+	height: 45px;
+	color: white;
+	line-height: 45px;
+	text-align: center;
+	margin: 40px auto;
+}
+.IS_aftersale .container>div>div>div{
+	margin-bottom: 5px;
+}
+.IS_aftersale .container>div>div>div>span{
+	color: #6dcff6;
+}
+.IS_aftersale p{
+	display: block;
+	margin-top: 30px;
+	color: #535151;
+}
+.IS_aftersale div{
+	color: #535151;
+}
+.IS_aftersale{
+	margin-bottom: 100px;
+}
+
+/*设计团队*/
+.design_wraper{
+	overflow: hidden;
+	position: relative;
+}
+.DT_wraper{
+	margin-top: 80px;
+	position: relative;
+	overflow: hidden;
+}
+.DT_wraper img{
+	width: 100%;
+}
+.design_img_wraper{
+	border: 6px solid #6dcff6;
+}
+.team_name{
+	overflow: hidden;
+}
+.team_name>div{
+	background: #6dcff6;
+	color: white;
+	width: 167px;
+	text-align: center;
+	line-height: 30px;
+	float: right;
+}
+.dec_circle{
+	width: 50px;
+	height: 10px;
+	margin: 10px auto;
+}
+.dec_circle span{
+	display: inline-block;
+	width: 8px;
+	height: 8px;
+	border-radius: 50%;
+	background: yellow;
+	margin-right: 10px;
+}
+.dec_circle span:nth-child(1){
+	background: red;
+}
+.dec_circle span:nth-child(2){
+	background: #2c7a4d;
+}
+.dec_circle span:nth-child(3){
+	background: #66c2e7;
+	margin-right: 0;
+}
+.DT_words{
+	font-size: 12px;
+	padding-left: 4px;
+	padding-right: 4px;
+	text-align: center;
+	margin-top: 20px;
+	margin-bottom: 50px;
+}
+.DT_words span{
+	border-right: 1px solid #8d8c8c;
+	border-left: 1px solid #8d8c8c;
+	padding-left: 4px;
+	padding-right: 4px;
+	margin-left: 4px;
+	margin-right: 4px;
+}
+.team_name_2>div{
+	float: left;
+	background: #b8b8b8;
+}
+.team_name_2 + div{
+	border-color: #b8b8b8;
+}
+.team_name_3>div{
+	float: left;
+	background: #6dcff6;
+}
+.team_name_3 + div{
+	border: none;
+}
+.design_factory{
+	margin-bottom: 100px;
+}
+
+/*企业历程*/
+.CH_wraper{
+	margin-top: 80px;
+	position: relative;
+	overflow: hidden;
+}
+.ch_top_img>img{
+	width: 100%;
+}
